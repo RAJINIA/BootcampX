@@ -184,7 +184,7 @@ INSERT INTO students (id, name, email, phone, github, start_date, end_date, coho
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (184, 'Hettie Hettinger', NULL, '604-312-7150', NULL, '2018-12-17T08:00:00.000Z', null, null);
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (185, 'Nola Jerde', NULL, '592-834-6237', 'aut', '2018-12-17T08:00:00.000Z', null, null);
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (186, 'Ibrahim Schimmel', 'paucek.misael@gmail.com', '604-573-8306', 'molestiae', '2018-12-17T08:00:00.000Z', null, null);
-INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (187, 'Jessika Jenkins', 'stephanie.koss@kevon.io', NULL, 'quo', '2018-12-17T08:00:00.000Z', null, null);
+INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (187, 'Jessika Jenkins', 'stephanie.koss@kevon.io', NULL, 'quo', '2018-12-17T08:00:00.000Z', null, null); clear
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (188, 'Holly Nitzsche', 'lindsey.barrows@marcellus.info', '778-044-7316', NULL, '2018-12-17T08:00:00.000Z', null, null);
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (189, 'Jerrold Rohan', 'wehner.twila@hotmail.com', NULL, 'exercitationem', '2018-12-17T08:00:00.000Z', null, null);
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (190, 'Fannie Hammes', 'alden.mayer@becker.tv', '778-031-3483', 'enim', '2018-12-17T08:00:00.000Z', null, null);
